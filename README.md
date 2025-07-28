@@ -1,7 +1,7 @@
 # Networking-lab-1
-:
 
-🌐 Cisco Packet Tracer Lab – Static IP with Dynamic Routing (Cyber Sentinel Program)
+
+**🌐 Cisco Packet Tracer Lab – Static IP with Dynamic Routing (Cyber Sentinel Program)**
 This networking lab was created using Cisco Packet Tracer as part of the Cyber Sentinel online program by Tech Hierarchy. It demonstrates a basic network setup using static IP addressing and dynamic routing.
 
 🔧 Network Topology Overview
@@ -21,7 +21,7 @@ This networking lab was created using Cisco Packet Tracer as part of the Cyber S
 
 
 
-🧠 Key Learning Outcomes
+**🧠 Key Learning Outcomes**
 
 Assigning static IP addresses to end devices
 
