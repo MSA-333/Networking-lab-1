@@ -1,25 +1,33 @@
 # Networking-lab-1
-🌐 Cisco Packet Tracer Lab – Dynamic IP Network (Cyber Sentinel Program)
-This repository contains a networking lab created using Cisco Packet Tracer as part of the Cyber Sentinel online program by Tech Hierarchy. The lab focuses on building a simple network with dynamic IP addressing to understand foundational networking concepts.
+:
+
+🌐 Cisco Packet Tracer Lab – Static IP with Dynamic Routing (Cyber Sentinel Program)
+This networking lab was created using Cisco Packet Tracer as part of the Cyber Sentinel online program by Tech Hierarchy. It demonstrates a basic network setup using static IP addressing and dynamic routing.
 
 🔧 Network Topology Overview
-🖥 4 PCs (2 per switch)
+
+🖥 4 PCs (2 connected to each switch)
 
 🔀 2 Switches
 
 🌐 1 Router
 
-🔌 Copper straight-through cables used for all connections
+🔌 Copper straight-through cables for all connections
 
-🧠 Dynamic IP addressing via DHCP
+🧠 Static IP addresses
+
+🔄 Dynamic routing configured on the router
+
 
 🧠 Key Learning Outcomes
-Setting up a basic LAN with multiple switches and a router
 
-Configuring and understanding DHCP for dynamic IP assignment
+Assigning static IP addresses to end devices
 
-Identifying correct cabling for network devices
+Understanding and configuring dynamic routing on a router
 
-Using Packet Tracer simulation tools to test and verify connectivity
+Properly connecting network devices using appropriate cables
 
-Understanding the flow of data across network layers
+Verifying device communication using Packet Tracer simulation mode
+
+Exploring how routers forward data across different networks
+
