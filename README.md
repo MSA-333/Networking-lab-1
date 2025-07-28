@@ -6,6 +6,7 @@ This networking lab was created using Cisco Packet Tracer as part of the Cyber S
 
 🔧 Network Topology Overview
 
+
 🖥 4 PCs (2 connected to each switch)
 
 🔀 2 Switches
@@ -17,6 +18,7 @@ This networking lab was created using Cisco Packet Tracer as part of the Cyber S
 🧠 Static IP addresses
 
 🔄 Dynamic routing configured on the router
+
 
 
 🧠 Key Learning Outcomes
